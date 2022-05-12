@@ -17,6 +17,9 @@ https://filmfreeway.com/boxcutter
 Hosted Computational Linguistics Poetry Workshop
 https://tetcollective.com/linguistic-play-1
 
+Jonker and Sibbel, randomized script
+https://tetcollective.com/jonker
+
 Dictee (2020) dir. by Eddy Wang
 https://www.youtube.com/watch?v=3o303E39Vmg
 
