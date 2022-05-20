@@ -31,3 +31,15 @@ https://www.youtube.com/watch?v=x3WFPr-yrMc&feature=youtu.be
 
 haste's '6 gymnasium - Screened at Poetry Bar Series
 https://www.youtube.com/watch?v=lWRgSCP4K1U
+
+Random Film Generator 
+https://github.com/EpicEdwardo/Randomized-Film
+
+P.S. (Post-Structuralism): Letters of Love and Cinema Web Component
+https://github.com/EpicEdwardo/PersistanceOfLove
+
+Neural Network Dependency Parser
+https://github.com/EpicEdwardo/Portfolio/tree/main/deptrans
+
+Photo Renamer Project
+https://github.com/EpicEdwardo/Portfolio/tree/main/photorenamer
