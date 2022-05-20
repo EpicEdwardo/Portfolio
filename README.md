@@ -5,6 +5,9 @@ This is just a collection of various projects I have been involved in the past (
 The Rhizone, a web-app I designed with a team from scratch in REACT 
 https://rhizones.herokuapp.com/
 
+A Film-Philosophical Investigation on Aspects of Love - Master's Thesis
+https://github.com/EpicEdwardo/Portfolio/blob/main/FilmPhilosophicalInvestigationOnAspectsOfLoveEddyWang.pdf
+
 AI-generated Sequel to Finnegans Wake
 https://www.academia.edu/43340061/Artificial_Intelligences_Rendition_of_Finnegans_Wake
 
@@ -37,6 +40,15 @@ https://github.com/EpicEdwardo/Randomized-Film
 
 P.S. (Post-Structuralism): Letters of Love and Cinema Web Component
 https://github.com/EpicEdwardo/PersistanceOfLove
+
+“The Fear of Breakdown” and The Dionysian Or_ How Frederick Nietzsche Learned to Stop Fearing and Love the Dionysian - Philosophy Essay
+https://github.com/EpicEdwardo/Portfolio/blob/main/%E2%80%9CThe%20Fear%20of%20Breakdown%E2%80%9D%20and%20The%20Dionysian%20Or_%20How%20Frederick%20Nietzsche%20Learned%20to%20Stop%20Fearing%20and%20Love%20the%20Dionysian.docx
+
+Sand - Short Story
+https://github.com/EpicEdwardo/Portfolio/blob/main/Sand.pdf
+
+Cocao Bar - Flash Fiction
+https://github.com/EpicEdwardo/Portfolio/blob/main/Cocoa%20Bar%20-%20Short%20Story%20Collection%20Ver.docx
 
 Neural Network Dependency Parser
 https://github.com/EpicEdwardo/Portfolio/tree/main/deptrans
