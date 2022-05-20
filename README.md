@@ -43,3 +43,12 @@ https://github.com/EpicEdwardo/Portfolio/tree/main/deptrans
 
 Photo Renamer Project
 https://github.com/EpicEdwardo/Portfolio/tree/main/photorenamer
+
+Music from Ira Dot
+https://iradot.bandcamp.com/
+
+Seven Inter-views about China (Part 1) (2020)
+https://www.youtube.com/watch?v=QxbLyqCHCF4
+
+Epitah to the Disaster (2019)
+https://www.youtube.com/watch?v=IGhc9GACmCY
