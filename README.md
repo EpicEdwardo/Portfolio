@@ -56,6 +56,10 @@ https://github.com/EpicEdwardo/Portfolio/tree/main/deptrans
 Photo Renamer Project
 https://github.com/EpicEdwardo/Portfolio/tree/main/photorenamer
 
+Select Varsity Articles:
+https://thevarsity.ca/2019/01/13/winterfest-2019-battle-of-the-bands/
+https://thevarsity.ca/2018/09/09/book-club-jason-herouxs-amusement-park-of-constant-sorrow-is-canadian-literature-at-its-strangest/
+
 Music from Ira Dot
 https://iradot.bandcamp.com/
 
